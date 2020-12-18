@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demoglide.iml" filepath="$PROJECT_DIR$/demoglide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo_android_glide_basic.iml" filepath="$PROJECT_DIR$/.idea/modules/demo_android_glide_basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/demo_android_glide_basic.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/demo_android_glide_basic.app.iml" />
     </modules>
   </component>
 </project>
